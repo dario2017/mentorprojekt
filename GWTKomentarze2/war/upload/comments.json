@@ -1,0 +1,68 @@
+[ {
+	"id": 1,
+	"comment": "Comment1",
+	"user": "User1",
+	"date": "2017.07.21",
+	"shape": "rect",
+	"coord": [
+		["100", "230"],
+		["370", "500"]
+	]
+},
+{
+	"id": 2,
+	"comment": "Comment2",
+	"user": "User2",
+	"date": "2017.04.10",
+	"shape": "note",
+	"coord": [
+		["50", "130"],
+		["170", "270"]
+	]
+},
+{
+	"id": 3,
+	"comment": "Comment3",
+	"user": "User3",
+	"date": "2016.11.21",
+	"shape": "rect",
+	"coord": [
+		["100", "230"],
+		["370", "500"]
+	]
+},
+{
+	"id": 4,
+	"comment": "Comment4",
+	"user": "User4",
+	"date": "2007.08.20",
+	"shape": "note",
+	"coord": [
+		["50", "130"],
+		["170", "270"]
+	]
+},
+{
+	"id": 5,
+	"comment": "Comment5",
+	"user": "User5",
+	"date": "2009.08.20",
+	"shape": "note",
+	"coord": [
+		["50", "130"],
+		["170", "270"]
+	]
+},
+{
+	"id": 6,
+	"comment": "Comment6",
+	"user": "User6",
+	"date": "2006.08.20",
+	"shape": "note",
+
+	"coord": [
+		["50", "130"],
+		["170", "270"]
+	]
+} ]
+    
